@@ -26,5 +26,12 @@ public class Implementation {
         r1.width = 6;
         r1.area();
         r1.perimeter();
+
+        Phone apple = new Phone();
+        apple.brand = "Apple";
+        apple.model = "Iphone 17 Pro Max";
+        apple.price = 150000;
+
+        apple.describe();
     }
 }
