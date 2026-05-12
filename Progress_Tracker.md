@@ -13,7 +13,7 @@
 ## PHASE 1 — Foundation (Week 1–2)
 
 ### Week 1: Classes, Objects, Constructors
-- [ ] Day 1 — Class aur Object kya hota hai?
+- [x] Day 1 — Class aur Object kya hota hai? ✓ (10 May)
 - [ ] Day 2 — Methods aur `new` keyword deep dive
 - [ ] Day 3 — Constructors (Default + Parameterized)
 - [ ] Day 4 — Constructor Overloading + `this` keyword
@@ -92,7 +92,7 @@
 ## Stats
 | Metric | Value |
 |--------|-------|
-| Days Completed | 0 / 45 |
-| Current Streak | 0 days |
+| Days Completed | 1 / 45 |
+| Current Streak | 1 day |
 | Mini Projects Done | 0 / 6 |
 | Phase | Phase 1 — Foundation |

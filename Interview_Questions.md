@@ -23,4 +23,16 @@
 
 ---
 
-*Questions for Day 2 onwards will be added as we progress...*
+## Day 2 — Methods and `new` Keyword
+> Full answers: `days/Day_02_Methods_and_new_keyword.md`
+
+- [ ] Q1. What is a method? What are its four parts?
+- [ ] Q2. What is the difference between a `void` method and a method with a return type?
+- [ ] Q3. What happens step-by-step when you write `Car c = new Car()`?
+- [ ] Q4. What is method overloading? (preview)
+- [ ] Q5. What is the difference between parameters and arguments?
+- [ ] Q6. Can a method call another method of the same class?
+
+---
+
+*Questions for Day 3 onwards will be added as we progress...*
