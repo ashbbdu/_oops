@@ -14,7 +14,7 @@
 
 ### Week 1: Classes, Objects, Constructors
 - [x] Day 1 — Class aur Object kya hota hai? ✓ (10 May)
-- [ ] Day 2 — Methods aur `new` keyword deep dive
+- [x] Day 2 — Methods aur `new` keyword deep dive ✓ (12 May)
 - [ ] Day 3 — Constructors (Default + Parameterized)
 - [ ] Day 4 — Constructor Overloading + `this` keyword
 - [ ] Day 5 — Static vs Instance (Variables + Methods)
